@@ -283,25 +283,6 @@ Edit `backend/services/rag_service.py` to customize:
 - [OpenRouter API](https://openrouter.ai/docs)
 - [ChromaDB Documentation](https://docs.trychroma.com/)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [OpenRouter](https://openrouter.ai/) for free AI model access
-- [arXiv](https://arxiv.org/) for research paper database
-- [Hugging Face](https://huggingface.co/) for transformer models
-- [Streamlit](https://streamlit.io/) for the amazing web framework
-
-## 📞 Support
-
-- **GitHub Issues**: [Create an issue](https://github.com/AnirudhNarayan/ArXiv-Mind-Gen-AI-App/issues)
-- **Email**: anidev0102@gmail.com
-- **Documentation**: Check the `/docs` endpoint when running
-
----
-
-**Made with ❤️ by [Anirudh Narayan](https://github.com/AnirudhNarayan)**
 
 *Empowering researchers with AI-driven insights*
