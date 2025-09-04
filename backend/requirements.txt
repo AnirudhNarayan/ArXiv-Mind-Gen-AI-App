@@ -1,0 +1,17 @@
+# Backend Dependencies for ArxivMind
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+requests==2.31.0
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+plotly==5.17.0
+pandas==2.1.4
+numpy==1.24.3
+python-dotenv==1.0.0
+pydantic==2.5.0
+aiohttp==3.9.0
+langchain==0.0.335
+langchain-openai==0.0.2.post1
+chromadb==0.4.18
+tiktoken==0.5.1
